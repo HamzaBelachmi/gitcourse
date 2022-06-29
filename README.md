@@ -1,3 +1,3 @@
 # gitcourse
 for learning
-##prject notes
+## project notes
